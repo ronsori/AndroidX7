@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">BalasAndroid</string>
     <string name="action_settings">Settings</string>
+    <string name="hello_world">Hell Reza</string>
+    <string name="weight_text">Weight</string>
+    <string name="recieve_button">Recieve</string>
+    <string name="send_button">Send</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="not_pressed">Not Pressed</string>
+    <string name="button_4">Button4</string>
+    <string name="button_3">Button3</string>
+    <string name="button_2">Button2</string>
+    <string name="button_1">Button1</string>
+    <string name="pressed">Pressed</string>
 </resources>
